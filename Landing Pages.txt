@@ -21,3 +21,16 @@ https://cp1.awardspace.net/zacky-installer/
 
 control panel or wp-admiin for my site naveed funter
 http://naveedfunter.atwebpages.com/wp-admin/admin.php?page=elementor
+
+
+
+
+Congratulations, your WordPress version 6.0.2 was installed sucessfully!
+
+You can now access your site's frontend here:
+
+http://naveedff.onlinewebshop.net
+
+In order to start editing your website you need to login to the backend of the application which is accessible here:
+
+http://naveedff.onlinewebshop.net/wp-admin/
