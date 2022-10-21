@@ -14,3 +14,10 @@ http://naveedfunter.atwebpages.com/wp-admin/post.php?post=9&action=elementor#
 
 i created through which is free web hosting
 https://cp1.awardspace.net/zacky-installer/
+
+
+
+
+
+control panel or wp-admiin for my site naveed funter
+http://naveedfunter.atwebpages.com/wp-admin/admin.php?page=elementor
